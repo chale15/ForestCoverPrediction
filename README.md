@@ -23,9 +23,9 @@ Submissions are evaluated on multi-class classification accuracy.
 
 The model with the best performance for this competition was a stacked model, made up of a Random Forest model, a Multi-layer Perceptron (Neural Net), and a Boosted Tree model (XGBoost).
 
-#### Top Score: 0.78770
+### Top Score: 0.78770
 
-#### Underlying Models:
+### Underlying Models:
 
 **Model 1: Random Forest**
 
